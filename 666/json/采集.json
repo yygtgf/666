@@ -6,6 +6,18 @@
     "cate_exclude": ""
   },
   {
+    "name": "草资源",
+    "url": "https://www.caoliuzyw.com/",
+    "parse_url": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url=",
+    "cate_exclude": ""
+  },
+  {
+    "name": "豆资源",
+    "url": "https://www.91md.me",
+    "parse_url": "",
+    "cate_exclude": ""
+  },
+  {
     "name": "360资源",
     "url": "https://360zy.com",
     "parse_url": "",
