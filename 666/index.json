@@ -124,8 +124,8 @@
             "name": "麻豆",
             "type": 4,
             "api": "https://www.bt4.cc/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch":1,
+            "searchable":1,
+            "quickSearch":0,
             "filterable":0
         },
         {
