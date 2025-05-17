@@ -1433,15 +1433,15 @@
 			"ext": "./drpy_js/小女18[密].js"
 		},
 		{
-			"key": "hipy_js_一点视频[密]",
-			"name": "一点视频[密](drpy_t3)",
+			"key": "hipy_js_R18撸[密]",
+			"name": "R18撸[密](drpy_t3)",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/一点视频[密].js"
+			"ext": "./drpy_js/R18撸[密].js"
 		},
 		{
 			"key": "hipy_js_ASMR[听]",
