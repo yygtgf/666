@@ -719,13 +719,30 @@
       "quickSearch": 0
     },
     {
-      "key": "*黄色仓库",
-      "name": "*黄色仓库",
+      "key": "*php_madou",
+      "name": "*仓库1",
       "type": 1,
       "api": "https://www.hsck.la/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0
     },
+    {
+      "key": "*仓库2",
+      "name": "*仓库2",
+      "type": 1,
+      "api": "https://www.hsck.la/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },		
+    {
+    "key": "*仓库3",
+    "name": "*仓库3",
+    "type": 1,
+    "api": "https://www.hsck.la/api.php/provide/vod//from/mdm3u8",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0
+    },		
   {
       "key": "草榴采集",
       "name": "草榴采集",
@@ -735,8 +752,8 @@
       "quickSearch": 0
     },
     {
-      "key": "*抖阴视频",
-      "name": "*抖阴视频",
+      "key": "*豆视频",
+      "name": "*豆视频",
       "type": 1,
       "api": "https://www.md91.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -752,15 +769,15 @@
     },
    {
     "key": "php_madou",
-    "name": "麻豆3",
-    "type": 4,
-    "api": "https://www.bt4.cc/api.php/provide/vod/",
+    "name": "麻豆视频3",
+    "type": 1,
+    "api": "https://www.bt4.cc/api.php/provide/vod/?ac=list",
     "searchable":1,
     "quickSearch":1,
     "filterable":0
     },		
     {
-      "key": "*天美视频",
+      "key": "*php_madou",
       "name": "*天美视频",
       "type": 1,
       "api": "https://www.bt4.cc/api.php/provide/vod/from/mdm3u8",
@@ -768,13 +785,22 @@
       "quickSearch": 0
     },
     {
-      "key": "*91麻豆",
-      "name": "*91麻豆",
+      "key": "*天美视频2",
+      "name": "*天美视频2",
       "type": 1,
-      "api": "https://www.bt4.cc/api.php/provide/vod/from/mdm3u8",
+      "api": "https://www.bt4.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
+    {
+    "key": "php_madou",
+    "name": "天美视频3",
+    "type": 1,
+    "api": "https://www.bt4.cc/api.php/provide/vod/",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0
+    },		
     {
       "key": "(18+)环亚资源",
       "name": "(18+不错)环亚资源",
