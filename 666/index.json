@@ -738,7 +738,7 @@
     "key": "*仓库3",
     "name": "*仓库3",
     "type": 1,
-    "api": "https://www.hsck.la/api.php/provide/vod/from/mdm3u8",
+    "api": "https://www.hsck.la/api.php/provide/vod/from/clm3u8",
     "searchable":1,
     "quickSearch":1,
     "filterable":0
@@ -771,7 +771,7 @@
     "key": "麻豆视频3",
     "name": "麻豆视频3",
     "type": 1,
-    "api": "https://www.bt4.cc/api.php/provide/vod/?ac=list",
+    "api": "https://www.bt4.cc/api.php/provide/vod/from/clm3u8",
     "searchable":1,
     "quickSearch":1,
     "filterable":0
@@ -788,7 +788,7 @@
       "key": "*天美视频2",
       "name": "*天美视频2",
       "type": 1,
-      "api": "https://www.bt4.cc/api.php/provide/vod/?ac=list",
+      "api": "https://www.bt4.cc/api.php/provide/vod/from/clm3u8",
       "searchable": 1,
       "quickSearch": 0
     },
