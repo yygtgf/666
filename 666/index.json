@@ -719,10 +719,10 @@
       "quickSearch": 0
     },
     {
-      "key": "*色南国资源",
-      "name": "*色南国资源",
+      "key": "*黄色仓库",
+      "name": "*黄色仓库",
       "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "api": "https://www.hsck.la/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -760,10 +760,10 @@
     "filterable":0
     },		
     {
-      "key": "*蛋蛋视频",
-      "name": "*蛋蛋视频",
+      "key": "*天美视频",
+      "name": "*天美视频",
       "type": 1,
-      "api": "https://www.36717.pw/api.php/provide/vod/from/mdm3u8",
+      "api": "https://www.bt4.cc/api.php/provide/vod/from/mdm3u8",
       "searchable": 1,
       "quickSearch": 0
     },
