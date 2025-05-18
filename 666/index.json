@@ -746,7 +746,7 @@
       "key": "*麻豆视频2",
       "name": "*麻豆视频2",
       "type": 1,
-      "api": "http://www.36717.pw/api.php/provide/vod/from/m3u8",
+      "api": "https://www.bt4.cc/api.php/provide/vod/from/m3u8",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -754,16 +754,16 @@
     "key": "php_madou",
     "name": "麻豆3",
     "type": 4,
-    "api": "https://www.bt4.cc/api.php/provide/vod/?ac=list",
+    "api": "https://www.bt4.cc/api.php/provide/vod/",
     "searchable":1,
-    "quickSearch":0,
+    "quickSearch":1,
     "filterable":0
     },		
     {
       "key": "*蛋蛋视频",
       "name": "*蛋蛋视频",
       "type": 1,
-      "api": "https://156.249.29.8/inc/apijson_vod.php",
+      "api": "https://www.bt4.cc/api.php/provide/vod/from/lcm3u8",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -771,7 +771,7 @@
       "key": "*91麻豆",
       "name": "*91麻豆",
       "type": 1,
-      "api": "http://www.36717.pw/api.php/provide/vod/?ac=list",
+      "api": "https://www.bt4.cc/api.php/provide/vod/from/mdm3u8",
       "searchable": 1,
       "quickSearch": 1
     },
